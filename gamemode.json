@@ -1,8 +1,8 @@
 {
+"ApiVersion" :2,
+  "Name": "Prosto standard",
 
-  "Name": "Testing Build",
-
-  "Description": "the normal",
+  "Description": "Dog",
 
   "StartClientVersion": 334,
   "ApiVersion": 2,
@@ -13,7 +13,7 @@
 
       "MapListId": 324,
 
-      "Name": "название для карт"
+      "Name": "Doner"
 
     }
 
